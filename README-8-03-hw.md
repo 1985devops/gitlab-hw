@@ -161,6 +161,9 @@ hello_job:
 ![установка 10](https://github.com/1985devops/gitlab-hw/blob/main/10111.jpg)
 ![установка 11](https://github.com/1985devops/gitlab-hw/blob/main/10222.jpg)
 ![установка 12](https://github.com/1985devops/gitlab-hw/blob/main/10333.jpg)
+![установка 12](https://github.com/1985devops/gitlab-hw/blob/main/10444.jpg)
+![установка 12](https://github.com/1985devops/gitlab-hw/blob/main/10555.jpg)
+
 
 ---
 
