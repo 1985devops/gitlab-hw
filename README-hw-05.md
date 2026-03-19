@@ -49,8 +49,8 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты`
-![установка 5](https://github.com/1985devops/gitlab-hw/blob/main/bbb5.png)
-![установка 6](https://github.com/1985devops/gitlab-hw/blob/main/bbb6.png)
+![установка 5](https://github.com/1985devops/gitlab-hw/blob/main/ccc5.png)
+![установка 6](https://github.com/1985devops/gitlab-hw/blob/main/ccc6.png)
 
 ---
 
@@ -64,9 +64,9 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты`
-![установка 7](https://github.com/1985devops/gitlab-hw/blob/main/bbb7.png)
-![установка 8](https://github.com/1985devops/gitlab-hw/blob/main/bbb8.png)
-![установка 9](https://github.com/1985devops/gitlab-hw/blob/main/bbb9.png)
+![установка 7](https://github.com/1985devops/gitlab-hw/blob/main/ccc7.png)
+![установка 8](https://github.com/1985devops/gitlab-hw/blob/main/ccc8.png)
+![установка 9](https://github.com/1985devops/gitlab-hw/blob/main/ccc9.png)
 
 ### Задание 4* со звёздочкой
 
@@ -78,7 +78,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты`
-![установка 10](https://github.com/1985devops/gitlab-hw/blob/main/bbb10.png)
+![установка 10](https://github.com/1985devops/gitlab-hw/blob/main/ccc10.png)
 
 ### Задание 5* со звёздочкой
 
