@@ -25,7 +25,7 @@
 ### Задание 1
 
 1. `Запустил два simple python сервера на ubuntu  на разных портах 8081 и 8082`
-1. `Установил HAProxy, воспользуйтесь материалами к лекции по ссылке и настроил балансировку Round-robin на 4 уровне`
+2. `Установил HAProxy, воспользуйтесь материалами к лекции по ссылке и настроил балансировку Round-robin на 4 уровне`
 
 ```
 global
@@ -100,7 +100,7 @@ listen web_tcp
 
 `При необходимости прикрепитe сюда скриншоты`
 ![установка 1](https://github.com/1985devops/gitlab-hw/blob/main/eee1.png)
-
+![ссылка 1](https://github.com/1985devops/gitlab-hw/blob/main/haproxy1.cfg)
 ---
 
 ### Задание 2
@@ -175,6 +175,7 @@ backend web_servers
 `При необходимости прикрепитe сюда скриншоты`
 ![установка 2](https://github.com/1985devops/gitlab-hw/blob/main/eee2.png)
 ![установка 3](https://github.com/1985devops/gitlab-hw/blob/main/eee3.png)
+![ссылка 2](https://github.com/1985devops/gitlab-hw/blob/main/haproxy2.cfg)
 
 
 ---
@@ -252,8 +253,13 @@ http {
 ```
 
 `При необходимости прикрепитe сюда скриншоты`
-![установка 4](https://github.com/1985devops/gitlab-hw/blob/main/eee4.png))
-![установка 5](https://github.com/1985devops/gitlab-hw/blob/main/eee5.png))
+![установка 4](https://github.com/1985devops/gitlab-hw/blob/main/eee4.png)
+![установка 5](https://github.com/1985devops/gitlab-hw/blob/main/eee5.png)
+![установка 6](https://github.com/1985devops/gitlab-hw/blob/main/eee6.png)
+![установка 7](https://github.com/1985devops/gitlab-hw/blob/main/eee7.png)
+![установка 8](https://github.com/1985devops/gitlab-hw/blob/main/eee8.png)
+![ссылка 3](https://github.com/1985devops/gitlab-hw/blob/main/haproxy3.cfg)
+![ссылка 4](https://github.com/1985devops/gitlab-hw/blob/main/nginx3.conf)
 
 ### Задание 4* со звёздочкой
 
